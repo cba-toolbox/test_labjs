@@ -74,10 +74,12 @@ jatos.submitResultData(resultJson, jatos.startNextComponent);
           "type": "likert",
           "items": [
             {
-              "label": "CBATは便利だと思う。"
+              "label": "CBATは便利だと思う。",
+              "coding": "q1"
             },
             {
-              "label": "JATOSで実験管理ができると便利と思う。"
+              "label": "JATOSで実験管理ができると便利と思う。",
+              "coding": "q2"
             }
           ],
           "width": "5",
